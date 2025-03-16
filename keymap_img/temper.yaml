@@ -54,7 +54,7 @@ layers:
     - {t: ⇧, s: ⇪}
     - SPACE
     - nav
-    - {t: BACKSPACE, s: Alt+ BACKSPACE}
+    - {t: BACKSPACE, s: Alt+BACKSPACE}
   lower:
   - ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
   - - '6'
@@ -66,16 +66,16 @@ layers:
     - ↓
     - ↑
     - →
-    - {t: Sft+ ;, s: 'Sft+ :'}
+    - {t: Sft+;, s: 'Sft+:'}
   - - ⌘Z
     - ⌘X
     - ⌘C
     - ⌘V
     - ↹
-    - {t: 'Gui+ [', s: 'Gui+ {'}
-    - {t: 'Gui+ ]', s: 'Gui+ }'}
+    - {t: 'Gui+[', s: 'Gui+{'}
+    - {t: 'Gui+]', s: 'Gui+}'}
     - '~'
-    - Sft+ '
+    - Sft+'
     - ''''
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -149,7 +149,7 @@ layers:
     - HOME
     - END
     - ↹
-    - {t: BACKSPACE, s: Alt+ BACKSPACE}
+    - {t: BACKSPACE, s: Alt+BACKSPACE}
   - - {t: ⇧, h: sticky}
     - {t: ⌃, h: sticky}
     - {t: ⎇, h: sticky}
